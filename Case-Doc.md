@@ -12726,6 +12726,3 @@ RECUPERACIÓN (24h - 72h):
 [ ] 5.5 Tabletop exercise de Zerologon realizado en los últimos 12 meses
 ```
 
----
-
-*[Fin de la sección de expansión adicional — Documento completo disponible en archivo adjunto]*
