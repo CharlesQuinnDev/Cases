@@ -1,7 +1,7 @@
 # CASO 56 — ZEROLOGON Y NETLOGON
 ## Análisis Técnico Exhaustivo: CVE-2020-1472 y Familia
 
-**Investigador**: [Tu nombre]
+**Investigador**: Charles Quinn
 **Versión**: 1.0.0
 **Fecha**: Junio 2026
 **Clasificación**: CRITICAL — CVSS 10.0
